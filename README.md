@@ -88,6 +88,7 @@ You successfully made your first contribution! 🎉
 
 
 
-# List of members 
-
-- [Aditya Simant](https://github.com/adityasimant)
+## List of members 
+<a href = "https://github.com/DIEMS-HUB/Get-Started/contributors">
+  <img src = "https://contrib.rocks/image?repo=DIEMS-HUB/Get-Started"/>
+</a>
