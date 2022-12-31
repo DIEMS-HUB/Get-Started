@@ -110,7 +110,8 @@ You successfully made your first contribution! 🎉
 
 ## List of members 
 
-- [Aditya simant](https://github.com/adityasimant)
+- [Aditya Simant](https://github.com/adityasimant)
+- [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 
 
