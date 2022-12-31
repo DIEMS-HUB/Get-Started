@@ -1,5 +1,6 @@
 # Get Started 
-You can make your first pull request in this repository to practice open source and join our community!
+You can make your first pull request in this repository to practice open source! 
+Make a pull request and you will recive an invite to join our community.
 
 #### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
@@ -12,6 +13,23 @@ You can make your first pull request in this repository to practice open source 
 ## Contributing
 
 
+
+### Option 1:
+
+<img src="https://firebasestorage.googleapis.com/v0/b/diems-hub.appspot.com/o/Fork%20the%20Repository.png?alt=media&token=521aeb92-b551-41d3-b766-17763ae419d3"/>
+
+1. Fork this repository by clicking `Fork` option on top right.
+2. Once forked go to your forked repository.
+3. Open the Readme.md file.
+4. Edit the file by adding your name and github link : `[Your-name](Your-github-link)`
+5. Commit changes with a message (optional).
+6. Create a Pull Request to merge your edits into our main repository.
+7. Your code will be merged once reviewed.
+  
+
+
+
+### Option 2:
 - Fork the project:
  Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
 
