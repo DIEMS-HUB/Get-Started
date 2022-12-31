@@ -1,6 +1,6 @@
 # Get Started 
 You can make your first pull request in this repository to practice open source! 
-Make a pull request and you will recive an invite to join our community.
+Make a pull request and you will recive an invite to join our community. Contributing to open sources can't get any easier than this!
 
 #### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
@@ -8,11 +8,7 @@ Make a pull request and you will recive an invite to join our community.
 
 `[Your-name](link-to-your-github-page) `
 
-
-
 ## Contributing
-
-
 
 ### Option 1:
 
@@ -21,14 +17,11 @@ Make a pull request and you will recive an invite to join our community.
 1. Fork this repository by clicking `Fork` option on top right.
 2. Once forked go to your forked repository.
 3. Open the Readme.md file.
-4. Edit the file by adding your name and github link : `[Your-name](Your-github-link)`
+4. Edit the file by adding your name and github link (link i soptional) : `[Your-name](Your-github-link)`
 5. Commit changes with a message (optional).
 6. Create a Pull Request to merge your edits into our main repository.
-7. Your code will be merged once reviewed.
+7. We will merge your code once it is reviewed.
   
-
-
-
 ### Option 2:
 - Fork the project:
  Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
@@ -101,6 +94,8 @@ or
 - Your pull request will be reviewed and then eventually merged.
 
 You successfully made your first contribution! 🎉
+
+- Make sure to join our [Discord](https://discord.gg/k9zdeQXc)
 
 ---
 ## Members 
