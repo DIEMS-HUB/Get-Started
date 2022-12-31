@@ -101,10 +101,7 @@ You successfully made your first contribution! 🎉
 - Make sure to join our [Discord](https://discord.gg/k9zdeQXc)
 
 ---
-## Members 
-<a href = "https://github.com/DIEMS-HUB/Get-Started/contributors">
-  <img src = "https://contrib.rocks/image?repo=DIEMS-HUB/Get-Started"/>
-</a>
+
 
 ## List of members 
 
