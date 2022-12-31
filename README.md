@@ -112,6 +112,7 @@ You successfully made your first contribution! 🎉
 - [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
+- [vishal jadhav](https://github.com/vishaljadhav207)
 
 
 
