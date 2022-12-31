@@ -1,4 +1,7 @@
 # Get Started 
+
+<b> Install <a href ="https://www.youtube.com/watch?v=2j7fD92g-gE">Git</a> First</b> <i>For windows</i>
+
 You can make your first pull request in this repository to practice open source! 
 Make a pull request and you will recive an invite to join our community. Contributing to open sources can't get any easier than this!
 
@@ -105,8 +108,7 @@ You successfully made your first contribution! 🎉
 
 ## List of members 
 
-- [Aditya Simant](https://github.com/adityasimant)
-- [Harshal Rajnoor](https://github.com/harshalrajnoor)
+- [Aditya simant](https://github.com/adityasimant)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 
 
