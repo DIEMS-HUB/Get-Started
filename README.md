@@ -85,10 +85,17 @@ or
 You successfully made your first contribution! 🎉
 
 ---
-
-
-
-## List of members 
+## Members 
 <a href = "https://github.com/DIEMS-HUB/Get-Started/contributors">
   <img src = "https://contrib.rocks/image?repo=DIEMS-HUB/Get-Started"/>
 </a>
+
+## List of members 
+
+* <a href="https://github.com/adityasimant"> Aditya Simant </a>
+* <a href ="https://github.com/riteshsonawane1372"> Ritesh Sonawane </a>
+
+
+
+
+
