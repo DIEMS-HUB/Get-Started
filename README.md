@@ -92,10 +92,7 @@ You successfully made your first contribution! 🎉
 
 ## List of members 
 
-* <a href="https://github.com/adityasimant"> Aditya Simant </a>
-* <a href ="https://github.com/riteshsonawane1372"> Ritesh Sonawane </a>
-
-
-
+- [Aditya simant](https://github.com/adityasimant)
+- [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 
 
