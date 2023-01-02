@@ -108,8 +108,6 @@ You successfully made your first contribution! 🎉
 - [Aditya simant](https://github.com/adityasimant)
 - [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
+- [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 - [vishal jadhav](https://github.com/vishaljadhav207)
-
-
-
