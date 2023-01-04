@@ -9,7 +9,7 @@ Make a pull request and you will recive an invite to join our community. Contrib
 
 ### Syntax in .md file :
 
-`[Your-name](link-to-your-github-page) `
+`[Rushikesh Avhale](https://github.com/its-rishi) `
 
 ## Contributing
 
@@ -54,7 +54,7 @@ Make a pull request and you will recive an invite to join our community. Contrib
 - **Add your name to the section that matches your Initial in this list, make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Aditya Simant](https://github.com/adityasimant)`
+  `- [Rushikesh Avhale](https://github.com/its-rishi)`
 
 - Stage your changes.
 
@@ -71,7 +71,7 @@ or
 - Commit the changes.
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m "Add <your-github-its-rishi>"
 ```
 
 
