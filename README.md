@@ -96,7 +96,6 @@ You successfully made your first contribution! 🎉
 
 ---
 
-
 ## List of members 
 
 - [Aditya simant](https://github.com/adityasimant)
@@ -105,6 +104,8 @@ You successfully made your first contribution! 🎉
 - [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 - [vishal jadhav](https://github.com/vishaljadhav207)
+- [Rushikesh Avhale](https://guthub.com/its-rishi)
+- [Your-FullName](URL OF YOUR GITHUB REPO)
 
 
 
