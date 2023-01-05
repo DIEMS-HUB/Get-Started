@@ -103,9 +103,8 @@ You successfully made your first contribution! 🎉
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
-- [vishal jadhav](https://github.com/vishaljadhav207)
 - [Rushikesh Avhale](https://guthub.com/its-rishi)
-- [Your-FullName](URL OF YOUR GITHUB REPO)
+- [vishal jadhav](https://github.com/vishaljadhav207)
 
 
 
