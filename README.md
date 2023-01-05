@@ -86,3 +86,25 @@ You should see something similar
 ![step 16](https://user-images.githubusercontent.com/72307121/210696123-62184640-f6e3-425d-bce2-f82fe15746ad.png)
 
 CLICK ON "Create pull request" and your all done. Happy Hacking! 
+
+
+- Your pull request will be reviewed and then eventually merged.
+
+You successfully made your first contribution! 🎉
+
+- Make sure to join our [Discord](https://discord.gg/k9zdeQXc)
+
+---
+
+
+## List of members 
+
+- [Aditya simant](https://github.com/adityasimant)
+- [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
+- [Harshal Rajnoor](https://github.com/harshalrajnoor)
+- [Pratik Gawande](https://github.com/gawandepratik022)
+- [Ritesh Sonawane](https://github.com/riteshsonawane1372)
+- [vishal jadhav](https://github.com/vishaljadhav207)
+
+
+
