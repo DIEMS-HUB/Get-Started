@@ -99,6 +99,7 @@ You successfully made your first contribution! 🎉
 ## List of members 
 
 - [Aditya simant](https://github.com/adityasimant)
+- [Arbazkhan Pathan](https://github.com/ArbazkhanPathan)
 - [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Pratik Gawande](https://github.com/gawandepratik022)
@@ -106,7 +107,6 @@ You successfully made your first contribution! 🎉
 - [Rushikesh Avhale](https://guthub.com/its-rishi)
 - [Varad Kachole](https://github.com/VaradKachole)
 - [vishal jadhav](https://github.com/vishaljadhav207)
-- [Arbazkhan Pathan](https://github.com/ArbazkhanPathan)
 
 
 
