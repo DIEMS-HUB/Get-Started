@@ -101,13 +101,14 @@ You successfully made your first contribution! 🎉
 - [Aditya simant](https://github.com/adityasimant)
 - [Arbazkhan Pathan](https://github.com/ArbazkhanPathan)
 - [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
+- [Akshay Peherkar](https://github.com/Akshayp02)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 - [Rushikesh Avhale](https://guthub.com/its-rishi)
 - [Varad Kachole](https://github.com/VaradKachole)
 - [vishal jadhav](https://github.com/vishaljadhav207)
-- [Akshay Peherkar](https://github.com/Akshayp02)
+
 
 
 
