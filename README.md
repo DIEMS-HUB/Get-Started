@@ -102,6 +102,7 @@ You successfully made your first contribution! 🎉
 - [Arbazkhan Pathan](https://github.com/ArbazkhanPathan)
 - [Ajinkya Bhandare](https://github.com/ajinkyavbhandare)
 - [Akshay Peherkar](https://github.com/Akshayp02)
+- [Aditya Walture](https://github.com/adityawalture)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
 - [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
