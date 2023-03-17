@@ -104,6 +104,7 @@ You successfully made your first contribution! 🎉
 - [Akshay Peherkar](https://github.com/Akshayp02)
 - [Aditya Walture](https://github.com/adityawalture)
 - [Harshal Rajnoor](https://github.com/harshalrajnoor)
+- [Ojas gupta](https://github.com/ojas664)
 - [Pratik Gawande](https://github.com/gawandepratik022)
 - [Ritesh Sonawane](https://github.com/riteshsonawane1372)
 - [Rushikesh Avhale](https://guthub.com/its-rishi)
