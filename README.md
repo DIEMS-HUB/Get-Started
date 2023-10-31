@@ -110,7 +110,7 @@ You successfully made your first contribution! 🎉
 - [Rushikesh Avhale](https://guthub.com/its-rishi)
 - [Varad Kachole](https://github.com/VaradKachole)
 - [vishal jadhav](https://github.com/vishaljadhav207)
-
+- [ganesh narwade](https://github.com/ganeshnarwade)
 
 
 
